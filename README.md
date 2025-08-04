@@ -41,7 +41,7 @@ What is the capital of the country whose population is the square of 12?
 
 ## 🛠️ How to Run
 
-1. Open the [Colab notebook](./MoR_Swarm_Agents.ipynb)
+1. Open the [Colab notebook](./MoR_Swarm_Agents/MoR_Swarm_Agents.ipynb)
 2. Set your Hugging Face API key.
 3. Run all cells.
 4. Enter any question — the coordinator agent will recursively delegate it to the right swarm members.
